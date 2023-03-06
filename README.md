@@ -10,6 +10,6 @@ https://github.com/Fekazo/BD_2_02210131021_A_2023/commit/36cc6b79c86e26ca17aa22e
 https://github.com/Fekazo/BD_2_02210131021_A_2023/commit/29bb60da6894a78aca256de3033e37c0c640f8c7
 
 #taller_4:
-
+https://github.com/Fekazo/BD_2_02210131021_A_2023/commit/b38e988a6df265968fb375aa660a4f329e4ef53c
 
 #taller_5:
