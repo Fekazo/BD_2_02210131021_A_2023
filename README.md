@@ -17,3 +17,6 @@ https://github.com/Fekazo/BD_2_02210131021_A_2023/commit/0c13214d2a5078f9dd6a3da
 
 #taller_7:
 https://github.com/Fekazo/BD_2_02210131021_A_2023/tree/main/taller_7
+
+#taller_8:
+https://github.com/Fekazo/BD_2_02210131021_A_2023/tree/main/taller_8
