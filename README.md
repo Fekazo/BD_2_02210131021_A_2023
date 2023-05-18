@@ -20,3 +20,6 @@ https://github.com/Fekazo/BD_2_02210131021_A_2023/tree/main/taller_7
 
 #taller_8:
 https://github.com/Fekazo/BD_2_02210131021_A_2023/tree/main/taller_8
+
+#taller_9:
+https://github.com/Fekazo/BD_2_02210131021_A_2023/tree/main/taller_9
